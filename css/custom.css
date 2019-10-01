@@ -1,0 +1,13 @@
+ .navbar-light .navbar-nav .nav-link{
+    /* color: rgba(0, 0, 0, 0.9); */
+    color: purple;
+  }
+  
+.display-4 h2{
+  color: purple;
+}
+
+.carousel-inner img {
+  width: 50%;
+  height: 50%;
+}
